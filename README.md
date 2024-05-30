@@ -1,8 +1,15 @@
-# React + Vite
+<h1>DEV-MOVIES</h1>
+<br>
+<br>
+<h2>Projeto DevMovies contendo Home, Filmes, Séries, carrossel com Top filmes, Top séries, Séries Populares e Top Artistas,  utilizando as tecnologias:</h2>
+<br>
+<br>
+<li>HTML</li>
+<li>CSS</li>
+<li>JavaScript</li>
+<li>React</li>
+<br>
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
 
-Currently, two official plugins are available:
-
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+<img src="https://github.com/wellitonsansao07/DevMovies-filmes-series/blob/master/src/assets/dev%20movies%20princ.png?raw=true"/>
+<img src="https://github.com/wellitonsansao07/DevMovies-filmes-series/blob/master/src/assets/DevMovies%20secu.png?raw=true"/>
