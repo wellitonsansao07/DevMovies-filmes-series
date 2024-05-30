@@ -1,7 +1,7 @@
 <h1>DEV-MOVIES</h1>
 <br>
 <br>
-<h2>Projeto DevMovies contendo Home, Filmes, Séries, carrossel com Top filmes, Top séries, Séries Populares e Top Artistas,  utilizando as tecnologias:</h2>
+<h2>Projeto DevMovies contendo: Home, Filmes, Séries, carrossel com:Top filmes, Top séries, Séries Populares e Top Artistas, utilizando as seguintes tecnologias:</h2>
 <br>
 <br>
 <li>HTML</li>
